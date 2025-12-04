@@ -161,3 +161,19 @@ https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="TV VIS", TV VIS
 https://live.vtv.mk/live/vtv/chunks.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p2/chunks.m3u8?nimblesessionid=78873800&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDExOjM0OjQ3IFBNJmhhc2hfdmFsdWU9dEdkb3F6c2lleEduOVhDRmlOTEZnUT09JnZhbGlkbWludXRlcz0zMCZpZD02OTMyMWE5NzUzOTZm
+#EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p2/chunks.m3u8?nimblesessionid=78873817&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDExOjM1OjAxIFBNJmhhc2hfdmFsdWU9UzNoazlBY1NKZ2NkMkNzc1RXWGp6dz09JnZhbGlkbWludXRlcz0zMCZpZD02OTMyMWFhNTQ1ZDFk
+#EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=469761405&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDExOjM1OjE1IFBNJmhhc2hfdmFsdWU9NXcrTkxnVnpuMW8ycmVQNEdOWHBGdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
+https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=469761411&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDExOjM1OjI4IFBNJmhhc2hfdmFsdWU9K2N0UTZWK3JFUUk1VUExcDV4WjkrZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=469761414&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDExOjM1OjQxIFBNJmhhc2hfdmFsdWU9eWRuQ1ZTbDZoRUFUNGVOMVNnVjVxQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="109" tvg-name="Alfa TV", Alfa TV
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=469761422&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDExOjM1OjU0IFBNJmhhc2hfdmFsdWU9Z0Zkd2VRTXFxL0s0OFRHS2ZuUUEwQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="110" tvg-name="24 Vesti", 24 Vesti
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=469761427&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDExOjM2OjA3IFBNJmhhc2hfdmFsdWU9YWVDendpMWtXcEJFSU1ndU11YWpCdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
+https://t2.tvmak.com/tv/TV21MK.m3u8?bzQGERv5wm
