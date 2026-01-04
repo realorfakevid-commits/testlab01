@@ -161,19 +161,25 @@ https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="TV VIS", TV VIS
 https://live.vtv.mk/live/vtv/chunks.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="HBO 1",HBO 1
+https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.m3u8?token=156fae5ef4d4f397d1802920020cae4f53557f2b-7e370e060fff3ac1aeff90af35f5e802-1767541951-1767541651&remote=no_check_ip
+#EXTINF:-1 tvg-id="112" tvg-name="HBO 2",HBO 2
+https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?token=f5571c06f4805bd9e8ac1558e033f05718fa6b3d-944bda5f8cd64ca089d4c0ef7ccf0003-1767541964-1767541664&remote=no_check_ip
+#EXTINF:-1 tvg-id="113" tvg-name="HBO 3",HBO 3
+https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?token=f975a7cff2a3743a34a0b8d07d8253b9c5e92c05-1dd074e46e9fb6075113aed70fab4c35-1767541978-1767541678&remote=no_check_ip
 #EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=87144267&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMjo0OTo0OSBQTSZoYXNoX3ZhbHVlPVRMT25rVDBSZHlHcWxYTjh0RkFrQmc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1YTdlMGQ2NzA4Zg==
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=87150986&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMzo0Nzo1OCBQTSZoYXNoX3ZhbHVlPTR5YnNFWmhKc2RiS0crRWZDMnM2M0E9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1YThiYWVkOTY5OA==
 #EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=87144289&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMjo1MDowMiBQTSZoYXNoX3ZhbHVlPXZtSjRGV1ZDUUlLd2pRTXdnQ0REc3c9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1YTdlMWFlNjQ5YQ==
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=87151017&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMzo0ODoxMiBQTSZoYXNoX3ZhbHVlPUh3Tjg2ZTdDeFJTUkxCNmhKUDFEUWc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1YThiYmM5Y2Y4YQ==
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=471935840&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMjo1MDoxNiBQTSZoYXNoX3ZhbHVlPVErRUxnWUxRa0hZeFJyTUY2SVlSRUE9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=471939013&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMzo0ODoyNSBQTSZoYXNoX3ZhbHVlPWJmemo4bkNIcEZRWkNaVWhqRnFKdXc9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=471935846&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMjo1MDozMSBQTSZoYXNoX3ZhbHVlPXVjNytHLzVibFZQNGZtWUhoUXRtQ3c9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=471939032&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMzo0ODo0MCBQTSZoYXNoX3ZhbHVlPWVQTWFtREhiV2dWSC9nWjlQS3UxaHc9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
 #EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=471935863&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMjo1MDo0NSBQTSZoYXNoX3ZhbHVlPTVubmg1MnNIT3Q3ZW9mVGJhUFc4Z0E9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=471939047&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMzo0ODo1NCBQTSZoYXNoX3ZhbHVlPTJSaHplQkxHQVk5VEp3d0JqaW8zYnc9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
 #EXTINF:-1 tvg-id="109" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=471935870&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMjo1MDo1OSBQTSZoYXNoX3ZhbHVlPVBjTHE1aUtwVm5BYThvbzQ1T3liNUE9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=471939057&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMzo0OTowNyBQTSZoYXNoX3ZhbHVlPVc1UXhCM0Npb2JKVTJ2NVc4VFUyOUE9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
 #EXTINF:-1 tvg-id="110" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=471935883&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMjo1MToxMiBQTSZoYXNoX3ZhbHVlPUtYRkwwWTNaQjdRMkhIL1QvMi9pTGc9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=471939073&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgMzo0OToyMCBQTSZoYXNoX3ZhbHVlPUxjd05SY09rNEJaZ1drZVdvRUFyOEE9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
 #EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
 https://t2.tvmak.com/tv/TV21MK.m3u8?dATgqpO7Rw
