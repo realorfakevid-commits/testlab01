@@ -2,27 +2,27 @@
 #EXTINF:-1 tvg-id="14" tvg-name="W24 TV", W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1346798715_b2176000_slger.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="ORF", ORF
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+https://s33.hdtvizlecanli.com/live/orf1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="ORF 2", ORF 2
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+https://s33.hdtvizlecanli.com/live/orf2.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="RTV AT", RTV Austria
 https://streamtest.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Servus TV", Servus TV
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master_6692.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Super RTL", Super RTL
-https://stream.livestreamde.com/live/superrtl.m3u8
+https://s33.hdtvizlecanli.com/live/superrtl.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="RTL", RTL HD
-https://stream.livestreamde.com/live/rtl.m3u8
+https://s33.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="RTL 2", RTL2 HD
-https://stream.livestreamde.com/live/rtl2.m3u8
+https://s33.hdtvizlecanli.com/live/rtl2.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="RTL NITRO", RTL NITRO
-https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
+https://s33.hdtvizlecanli.com/live/nitro.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="N-TV", N-TV
-https://stream.livestreamde.com/live/ntv.m3u8
+https://s33.hdtvizlecanli.com/live/ntv.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Sat-Gold", Sat-Gold
-https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
+https://s33.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
 https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
@@ -30,15 +30,15 @@ https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="One TV", One TV
 https://s6.hopslan.com/onetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="SiXX TV", SiXX TV
-https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
+https://s33.hdtvizlecanli.com/live/six.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="TELE 5", TELE 5 TV
 https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Kabel 1", Kabel 1 TV
-https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
+https://s33.hdtvizlecanli.com/live/kabel1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Kabel 1 Doku", Kabel 1 Doku TV
-https://s6.hopslan.com/dokuX/tracks-v1a1/mono.m3u8
+https://s33.hdtvizlecanli.com/live/kabel1doku.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Vox", VOX TV
-https://stream.livestreamde.com/live/vox.m3u8
+https://s33.hdtvizlecanli.com/live/vox.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Krone TV", Krone TV
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_3400000=10003-mp4a_128000_deu=20000.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Disney TV", Disney TV
@@ -49,32 +49,10 @@ https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="RM TV", RimexTV
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="SRF 1", SRF 1
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="SRF 2", SRF 2
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="SRF info", SRF info
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="RTS Un", RTS Un
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="RTS Deux", RTS Deux
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="MeteoNews TV", MeteoNews
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Eurosport 1", Eurosport 1
-https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Rai Sport", Rai Sport
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="This is Bulgaria HD", This is Bulgaria HD
-https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Travel TV", Travel TV
-https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="TurkeyTravel", TurkeyTravel
 https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Hope Channel Bulgaria", Hope Channel Bulgaria
-https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="4327" tvg-name="DSTV", DSTV BG
-https://cors.globetv.app/http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="4327" tvg-name="TV Hram", TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="TV NewsMedia", NewsMedia
@@ -85,12 +63,8 @@ https://stream.luci.xyz/hls/LTV.m3u8
 https://stream.rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="RTV Herceg-Bosne", RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="BHT 1", BHT 1
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="RTV Zenica", RTV Zenica
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="1887" tvg-name="Super TV Media", Super TV Media
-https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="1887" tvg-name="Televizija 5", Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-id="1887" tvg-name="Aeolos", Aeolos TV
@@ -111,10 +85,6 @@ https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Radio Karolina", Radio Karolina
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="The Voice TV", The Voice TV
-https://bss1.neterra.tv/thevoice/stream_0.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Magic TV", Magic TV
-https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Deejay TV IT", Deejay TV IT
 https://streamcdnf29-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Radio m2o", Radio m2o
@@ -147,8 +117,6 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="EWTN Europe", EWTN Europe
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="SkyNews", SkyNews
-https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="EuroNews TV", EuroNewsTV
 https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="True History", True History
@@ -224,16 +192,8 @@ https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="TV VIS", TV VIS
 https://live.vtv.mk/live/vtv/chunks.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=93481897&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDQ6Mjg6MDggUE0maGFzaF92YWx1ZT1HR0JLcVJnaUZTOXZDdXMyZjNoakNnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5OGY1MTE4Y2I5NmM=
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=94499490&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI2IDExOjM4OjIwIEFNJmhhc2hfdmFsdWU9RXRDd1B4ZjdidlRLeVY2NmZzZ3lkdz09JnZhbGlkbWludXRlcz0zMCZpZD02OTlhZWFhY2EwMmM1
 #EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p2/chunks.m3u8?nimblesessionid=93481916&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDQ6Mjg6MjIgUE0maGFzaF92YWx1ZT1UNXhFNFZjaDZYYUI0OElVZit5RUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5OGY1MTI2ODQ4MmQ=
-#EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=475864165&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDQ6Mjg6MzUgUE0maGFzaF92YWx1ZT1zWS94T2s4WEVNTnFob05ONzNVaGZnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=475864197&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDQ6Mjg6NTAgUE0maGFzaF92YWx1ZT1xaE9QQ0VseW1kL016aEJ5aUloejNBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="109" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=475864288&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDQ6Mjk6MjMgUE0maGFzaF92YWx1ZT1VRGRVamlMcU5FWkdkdlJmUmRnck13PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="110" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=475864288&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDQ6Mjk6MjMgUE0maGFzaF92YWx1ZT1VRGRVamlMcU5FWkdkdlJmUmRnck13PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=94499500&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI2IDExOjM4OjM0IEFNJmhhc2hfdmFsdWU9dmE5Ymo4bWV0WTgvbDE3TjVLMGRiUT09JnZhbGlkbWludXRlcz0zMCZpZD02OTlhZWFiYTRjZTI5
 #EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
-https://t2.tvmak.com/tv/TV21MK.m3u8?p6Um3CYGvt
+https://t2.tvmak.com/tv/TV21MK.m3u8?d56v0rSXlw
