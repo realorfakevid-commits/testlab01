@@ -1,90 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="14" tvg-name="W24 TV", W24 TV
-https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1346798715_b2176000_slger.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="ORF", ORF
-https://s33.hdtvizlecanli.com/live/orf1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="ORF 2", ORF 2
-https://s33.hdtvizlecanli.com/live/orf2.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="RTV AT", RTV Austria
-https://streamtest.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Servus TV", Servus TV
-https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master_6692.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Super RTL", Super RTL
-https://s33.hdtvizlecanli.com/live/superrtl.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="RTL", RTL HD
-https://s33.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="RTL 2", RTL2 HD
-https://s33.hdtvizlecanli.com/live/rtl2.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="RTL NITRO", RTL NITRO
-https://s33.hdtvizlecanli.com/live/nitro.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
-https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="N-TV", N-TV
-https://s33.hdtvizlecanli.com/live/ntv.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="Sat-Gold", Sat-Gold
-https://s33.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
-https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
-https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="One TV", One TV
-https://s6.hopslan.com/onetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="SiXX TV", SiXX TV
-https://s33.hdtvizlecanli.com/live/six.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="TELE 5", TELE 5 TV
-https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Kabel 1", Kabel 1 TV
-https://s33.hdtvizlecanli.com/live/kabel1.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Kabel 1 Doku", Kabel 1 Doku TV
-https://s33.hdtvizlecanli.com/live/kabel1doku.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Vox", VOX TV
-https://s33.hdtvizlecanli.com/live/vox.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Krone TV", Krone TV
-https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_3400000=10003-mp4a_128000_deu=20000.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Disney TV", Disney TV
-https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="DMAX TV", DMAX TV
-https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="RTV", RTV Oberösterreich
-http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="RM TV", RimexTV
-https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="MeteoNews TV", MeteoNews
-https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TurkeyTravel", TurkeyTravel
-https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4327" tvg-name="TV Hram", TV Hram
-https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="TV NewsMedia", NewsMedia
-https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Libertas HR", Libertas HR
-https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 tvg-id="1023" tvg-name="BN TV", BN TV
-https://stream.rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="RTV Herceg-Bosne", RTV Herceg-Bosne
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="RTV Zenica", RTV Zenica
-https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="1887" tvg-name="Televizija 5", Televizija 5
-https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="1887" tvg-name="Aeolos", Aeolos TV
-https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Telekriti", Telekriti
-https://neon.streams.gr:8081/telekriti/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CMC TV", CMC TV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="RadioSalzburg TV", Balkan TV
-https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/chunklist_w1221337716.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Radio Lola", Radio Lola
-https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="MojRadio", Moj Radio
-https://webtvstream.bhtelecom.ba/hls15/malta_1200.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TV Jadran", TV Jadran
-https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TV - M", TV - M
-https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Radio Karolina", Radio Karolina
-https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Deejay TV IT", Deejay TV IT
 https://streamcdnf29-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Radio m2o", Radio m2o
@@ -109,6 +23,64 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-id="986" tvg-name="Deluxe Music", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="W24 TV", W24 TV
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1346798715_b2176000_slger.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="FS1 TV", FS1 TV 
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="RTV AT", RTV Austria
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
+https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="TELE 5", TELE 5 TV
+https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Krone TV", Krone TV
+https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_3400000=10003-mp4a_128000_deu=20000.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Disney TV", Disney TV
+https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="DMAX TV", DMAX TV
+https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="RM TV", RimexTV
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="MeteoNews TV", MeteoNews
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TurkeyTravel", TurkeyTravel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4327" tvg-name="TV Hram", TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="TV NewsMedia", NewsMedia
+https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Libertas HR", Libertas HR
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="1023" tvg-name="BN TV", BN TV
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RTV Herceg-Bosne", RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RTV Zenica", RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="1887" tvg-name="Televizija 5", Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="1887" tvg-name="Aeolos", Aeolos TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Telekriti", Telekriti
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CMC TV", CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="RadioSalzburg TV", Balkan TV
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/chunklist_w1221337716.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Radio Lola", Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="MojRadio", Moj Radio
+https://webtvstream.bhtelecom.ba/hls15/malta_1200.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV Jadran", TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV - M", TV - M
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Radio Karolina", Radio Karolina
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="4Fun TV", 4 FunTV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="ET Live", ET Live
@@ -177,23 +149,171 @@ https://eu.live.skyfolk.mk/live.m3u8
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="TV NOVA 12", TV NOVA 12
 http://151.236.247.171:8080/nova/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="M-NET GOURMET", M-NET GOURMET
-https://live.mnet.mk/hls/mnet-gourmet.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="M-NET SPORT", M-NET SPORT
-https://live.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="M-NET KIDS", M-NET KIDS
-https://live.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Kanal8", Kanal8
-https://live20.bozztv.com/giatv/giatv-kanal8live/kanal8live/chunks.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Nasha TV", Nasha TV
-https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="M-NET INFO", M-NET INFO
-https://live.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TV VIS", TV VIS
-https://live.vtv.mk/live/vtv/chunks.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=94499490&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI2IDExOjM4OjIwIEFNJmhhc2hfdmFsdWU9RXRDd1B4ZjdidlRLeVY2NmZzZ3lkdz09JnZhbGlkbWludXRlcz0zMCZpZD02OTlhZWFhY2EwMmM1
-#EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=94499500&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI2IDExOjM4OjM0IEFNJmhhc2hfdmFsdWU9dmE5Ymo4bWV0WTgvbDE3TjVLMGRiUT09JnZhbGlkbWludXRlcz0zMCZpZD02OTlhZWFiYTRjZTI5
-#EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
-https://t2.tvmak.com/tv/TV21MK.m3u8?d56v0rSXlw
+#EXTINF:-1 tvg-id="1" tvg-name="Love TV", LoveTV MK
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="CoolTV MK", Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8 
+#EXTINF:-1 tvg-id="104" tvg-name="Jazz TV MK", Jazz TV https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="HugoTV MK", HugoTV 
+http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="NovaTV 12", NovaTV 12 
+https://novastreaming.cloudns.info/nova12_music/tracks-v1a1/mono.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="-1" tvg-name="Deejay TV IT", Deejay TV IT
+https://streamcdnf29-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b1728000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Radio m2o", Radio m2o
+https://streamcdnf28-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Now Rock TV", Now Rock TV
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="V2 Beat", V2 Beat
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Baraza TV Deep House", Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Baraza TV Relaxing", Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Ocko TV", Ocko TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="280" tvg-name="World FashionTV", FashionTV
+https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Deluxe Dance", Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Kronehit", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="DASDING", DASDING
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="986" tvg-name="Deluxe Music", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="W24 TV", W24 TV
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1346798715_b2176000_slger.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="FS1 TV", FS1 TV 
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="RTV AT", RTV Austria
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
+https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="TELE 5", TELE 5 TV
+https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Krone TV", Krone TV
+https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_3400000=10003-mp4a_128000_deu=20000.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Disney TV", Disney TV
+https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="DMAX TV", DMAX TV
+https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="RM TV", RimexTV
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="MeteoNews TV", MeteoNews
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TurkeyTravel", TurkeyTravel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4327" tvg-name="TV Hram", TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="TV NewsMedia", NewsMedia
+https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Libertas HR", Libertas HR
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="1023" tvg-name="BN TV", BN TV
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RTV Herceg-Bosne", RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RTV Zenica", RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="1887" tvg-name="Televizija 5", Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="1887" tvg-name="Aeolos", Aeolos TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Telekriti", Telekriti
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CMC TV", CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="RadioSalzburg TV", Balkan TV
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/chunklist_w1221337716.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Radio Lola", Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="MojRadio", Moj Radio
+https://webtvstream.bhtelecom.ba/hls15/malta_1200.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV Jadran", TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV - M", TV - M
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Radio Karolina", Radio Karolina
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="4Fun TV", 4 FunTV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="ET Live", ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 tvg-id="4439" tvg-name="Travel XP", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="EWTN Europe", EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="EuroNews TV", EuroNewsTV
+https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="True History", True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="CGTN DocTV", CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Earthquakes TV", Earthquakes TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Yahoo Finance", Yahoo Finance
+https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Evrokom", Evrokom
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="2316" tvg-name="TRT WORLDS", TRT WORLDS
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="CityNews Canada", CityNews CZ
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-3MBPS.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="UTV CZ", UTV CZ
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="RT", RT
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_360p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="RT DE", RT DE
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="1323" tvg-name="Canal 24 Horas", Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Al Jazeera", Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="CurrentTime TV", CurrentTime TV
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="WeatherNation TV", WeatherNation TV
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="OutsideTV", Outside TV
+https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="PBS Kids", PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Kika Kids", Kika Kids
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master-1080p-5000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Discover Film TV", Discover Film TV
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Adventure Earth TV", Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Prensa Latina TV", Prensa Latina TV
+https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Tennis Channel", Tennis ChannelTV
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Folk TV", Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TopEstrada TV", Top Estrada
+http://live.topestrada.com/live/topestrada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="StarPlus TV", StarPlus TV 
+https://tv.starfolk.net/live/StarPlus/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Rock TV", Rock TV MK
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="SkyFolk TV", SkyFolk TV
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TVZdravkin", TVZdravkin
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV NOVA 12", TV NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Love TV", LoveTV MK
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="CoolTV MK", Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8 
+#EXTINF:-1 tvg-id="104" tvg-name="Jazz TV MK", Jazz TV https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="HugoTV MK", HugoTV 
+http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="NovaTV 12", NovaTV 12 
+https://novastreaming.cloudns.info/nova12_music/tracks-v1a1/mono.m3u8
